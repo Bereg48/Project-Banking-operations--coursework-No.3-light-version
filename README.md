@@ -16,7 +16,7 @@
         
 ### 2. Склонируйте репозиторий на свой локальный компьютер:
 
-        1- git clone [https://github.com/your_username/your_project.git](https://github.com/Bereg48/Works-as-a-cocktail-compiler.git)
+        1- git clone https://github.com/Bereg48/Project-Banking-operations--coursework-No.3-light-version.git
 
 ### 3. Для запуска приложения перейдите в файл main.py и штатно с консоли запустите при применении стандартных инструкментов Run : 
 
